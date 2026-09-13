@@ -1,0 +1,12 @@
+{
+  "name": "今日の勉強 – StudyFlow",
+  "short_name": "StudyFlow",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F5F6F4",
+  "theme_color": "#F5F6F4",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
